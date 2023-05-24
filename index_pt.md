@@ -1,5 +1,5 @@
 [PDF Version](index.pdf) <br/>
-[ptBR Version](index_pt.md)
+[enUS Version](index.md)
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Caique C Santos</span>
@@ -8,8 +8,8 @@
 <span class="info">
 Fortaleza/CE - Brazil <br>
 +55 (85) 9 8219 4429 <br>
-Portuguese (native), English <br/>
-Brazilian <br/>
+Português (nativo), Inglês <br/>
+Brasileiro <br/>
 <a href="mailto:caique.c.s@icloud.com">
 <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Mail me" style="width:15px">
 caique.c.s@icloud.com
@@ -27,7 +27,7 @@ github.com/caiquecsx
 <div align="center">
     <table >
      <tr>
-        <td><b>Technologies</b></td>
+        <td><b>Tecnologias</b></td>
         <td><b>Frameworks</b></td>
      </tr>
      <tr>
@@ -57,11 +57,11 @@ github.com/caiquecsx
     </table>
     </div>
 
-## Relevant Experience
+## Experiências Relevantes
 
-### Mid-level Java Software Developer <time> Dec 2020 – Present </time>
+### Desenvolvedor Java Pleno <time> Dec 2020 – Present </time>
 
-<location> Zup Innovation, São Paulo, Brazil </location>
+<location> Zup Innovation, São Paulo, Brasil </location>
 
 - Develop and implement new software
 - Test, maintain and recommend software improvements to ensure strong functionality and optimization
