@@ -1,17 +1,15 @@
 
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<!-- 
 <span class="name">Caique Santos</span>
 
 <span class="info">
 
 [![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:caique.c.s@icloud.com)
+
 [![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/caiquecsx)
 
-</span> -->
-
-
+</span>
 
 ## Education
 
@@ -26,7 +24,7 @@
 ## Relevant Experience
 
 ## Other Experience
-
+<!-- 
 ### Webmaster <time> Apr 2022 – Present </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
@@ -47,6 +45,6 @@
 <location> Housing and Food Services, University of Washington </location>
 
 - Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
+- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives -->
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
