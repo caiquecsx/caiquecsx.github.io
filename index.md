@@ -1,7 +1,7 @@
 [PDF Version](index.pdf) <br/>
 [ptBR Version](index_pt.md)
 <link rel="stylesheet" type="text/css" href="resume.css">
-
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 <span class="name">Caique C Santos</span>
 
 <p>
