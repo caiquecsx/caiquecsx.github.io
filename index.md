@@ -21,15 +21,40 @@ github.com/caiquecsx
 </span>
 </p>
 
-## Technologies
+## Developer Stack
 
-| Programming Languages | Time | 
-| -- | -- |
-| Java | 5 years |
-| Kotlin | 3 years |
-| MongoDB | 3 years |
-| PostgreSQL | 3 years |
-
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Technologies</b></td>
+        <td><b>Frameworks</b></td>
+     </tr>
+     <tr>
+       <td>Java</td>
+        <td>Spring Framework</td>
+     </tr>
+     <tr>
+       <td>Kotlin</td>
+        <td>Spring Cloud Stream</td>
+     </tr>
+     <tr>
+       <td>MongoDB</td>
+        <td>JUnit</td>
+     </tr>
+     <tr>
+       <td>PostgreSQL</td>
+        <td>Spock</td>
+     </tr>
+     <tr>
+       <td>RabbitMQ</td>
+        <td>Github</td>
+     </tr>
+     <tr>
+       <td>NodeJS</td>
+        <td>Clean Code & Architecture</td>
+     </tr>
+    </table>
+    </div>
 
 ## Relevant Experience
 
