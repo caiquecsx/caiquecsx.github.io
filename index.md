@@ -1,7 +1,7 @@
 [PDF Version](index.pdf)
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Caique Santos</span>
+<span class="name">Caique C Santos</span>
 
 <p>
 <span class="info">
