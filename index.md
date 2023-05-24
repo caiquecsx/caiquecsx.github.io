@@ -9,13 +9,11 @@
 <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Mail me" style="width:15px">
 caique.c.s@icloud.com
 </a>
+<br/>
 <a href="https://github.com/caiquecsx">
 <img src="https://simpleicons.org/icons/github.svg" alt="Github" style="width:15px">
 github.com/caiquecsx
 </a>
-
-<!-- <a href="mailto:caique.c.s@icloud.com">caique.c.s@icloud.com</a> <br/>
-<a href="">github.com/caiquecsx</a> -->
 </span>
 </p>
 
@@ -27,7 +25,69 @@ github.com/caiquecsx
 
 ## Relevant Experience
 
-## Other Experience
+### Mid-level Java Software Developer <time> Dec 2020 – Present </time>
+
+<location> Zup Innovation, São Paulo, Brazil </location>
+
+- Write and maintaining the code
+- Write documentation
+- Analyse and Implement coding, considering use o Clean Code and usign Clean Architecture. 
+- Solve possible bugs. 
+- Analyse and design of P.O requirements
+- Tecnologies: Microservices, Clean code, Clean Architecture, Mongo, Postgres, Java 8, Java 11, Kotlin, NodeJS, Asynchronous communication between services using Spring Cloud Stream and RabbitMQ, Testing with JUnit and Spock, REST WebSerices, Spring Cloud Config, Github.
+
+- Skills: Troubleshooting · Software Maintenance · Computer Science · Specifications · Code Review · Spring Framework · Linux · Object-Oriented Programming (OOP) · Spring Boot · PostgreSQL · Kotlin · Node.js · Microservices · clean code · Java
+
+### Systems analyst <time> Jan 2020 - Dec 2020 </time>
+<location> Engesoftware Tecnologia S.A, Fortaleza, Brazil </location>
+
+- Attending inciddents and finding solutions for bugs in production.
+- Tecnologies: IBM RTC, Java 6, Java 8, JEE, JSF, Primefaces
+
+### Systems analyst <time> Nov 2018 - Jan 2020 </time>
+<location> Resource IT Solutions, Fortaleza, Brazil </location>
+
+- Attending inciddents and finding solutions for bugs in production.
+- Tecnologies: IBM RTC, Java 6, Java 8, JEE, JSF, Primefaces
+
+### Entry Level Developer <time> Nov 2018 - Jan 2020 </time>
+<location> FabricaInfo, Fortaleza, Brazil  </location>
+
+- Mobile developer, using Ionic to create hybrid applications.
+- Back-end developer, using NodeJS and Express to create APIs for applications.
+
+## Qualifications
+
+### Java Developer Course <time> Mai 2019 </time>
+<location> Alura School </location>
+<a href="https://cursos.alura.com.br/user/caique-santos/career/desenvolvedor-java-junior/certificate">
+Certification
+</a>
+
+### Authentication, Authorization and MVC Pattern Course <time> Apr 2019 </time>
+<location> Alura School </location>
+<a href="https://cursos.alura.com.br/certificate/112df29a-a561-4178-959d-9912e1f89826">
+Certification
+</a>
+
+### Persistence with JPA 2 and Hibernate Course <time> Apr 2019 </time>
+<location> Alura School </location>
+<a href="https://cursos.alura.com.br/user/caique-santos/course/persistencia-de-objetos-com-jpa-hibernate/certificate">
+Certification
+</a>
+
+### Java Servlet <time> Apr 2019 </time>
+<location> Alura School </location>
+<a href="https://cursos.alura.com.br/certificate/d4e39940-7fc5-4d04-9a1f-fff17fe2ad99">
+Certification
+</a>
+
+### Java 8 <time> Mar 2019 </time>
+<location> Alura School </location>
+<a href="https://cursos.alura.com.br/certificate/d4e39940-7fc5-4d04-9a1f-fff17fe2ad99">
+Certification
+</a>
+
 <!-- 
 ### Webmaster <time> Apr 2022 – Present </time>
 
