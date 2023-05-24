@@ -19,7 +19,7 @@ github.com/caiquecsx
 
 ## Education
 
-### Faculdade Lourenço Filho | <location> Fortaleza, CE - Brazil </location> <time> Sep 2019 – Jun 2021 </time>
+### Faculdade Lourenço Filho | <location> Fortaleza, CE - Brazil </location> <time> 2015 – 2020 </time>
 
 - Information systems (Bachelor´s degree) 
 
