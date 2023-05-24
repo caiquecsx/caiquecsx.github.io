@@ -5,10 +5,17 @@
 
 <p>
 <span class="info">
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:caique.c.s@icloud.com)
+<a href="mailto:caique.c.s@icloud.com">
+<img src="https://simpleicons.org/icons/minutemailer.svg" alt="Mail me" style="width:15px">
+caique.c.s@icloud.com
+</a>
+<a href="https://github.com/caiquecsx">
+<img src="https://simpleicons.org/icons/github.svg" alt="Github" style="width:15px">
+github.com/caiquecsx
+</a>
 
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/caiquecsx)
-
+<!-- <a href="mailto:caique.c.s@icloud.com">caique.c.s@icloud.com</a> <br/>
+<a href="">github.com/caiquecsx</a> -->
 </span>
 </p>
 
@@ -17,10 +24,6 @@
 ### Faculdade Lourenço Filho | <location> Fortaleza, CE - Brazil </location> <time> Sep 2019 – Jun 2021 </time>
 
 - Information systems (Bachelor´s degree) 
-
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
-
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
 
 ## Relevant Experience
 
