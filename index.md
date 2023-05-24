@@ -1,4 +1,4 @@
-[PDF Version](cv.pdf)
+[PDF Version](index.pdf)
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Caique Santos</span>
