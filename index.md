@@ -1,10 +1,14 @@
-
+[PDF Version](cv.pdf)
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Caique Santos</span>
 
 <p>
 <span class="info">
+Fortaleza/CE - Brazil <br>
++55 (85) 9 8219 4429 <br>
+Portuguese (native), English <br/>
+Brazilian <br/>
 <a href="mailto:caique.c.s@icloud.com">
 <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Mail me" style="width:15px">
 caique.c.s@icloud.com
@@ -17,11 +21,15 @@ github.com/caiquecsx
 </span>
 </p>
 
-## Education
+## Technologies
 
-### Faculdade Lourenço Filho | <location> Fortaleza, CE - Brazil </location> <time> 2015 – 2020 </time>
+| Programming Languages | Time | 
+| -- | -- |
+| Java | 5 years |
+| Kotlin | 3 years |
+| MongoDB | 3 years |
+| PostgreSQL | 3 years |
 
-- Information systems (Bachelor´s degree) 
 
 ## Relevant Experience
 
@@ -29,11 +37,14 @@ github.com/caiquecsx
 
 <location> Zup Innovation, São Paulo, Brazil </location>
 
-- Write and maintaining the code
+- Develop and implement new software
+- Test, maintain and recommend software improvements to ensure strong functionality and optimization
+- Work with experienced team members to conduct root cause analysis of issues, review new and existing code and/or perform unit testing
 - Write documentation
-- Analyse and Implement coding, considering use o Clean Code and usign Clean Architecture. 
+- Development of technical specifications and plans
+- Analyze user requirements and convert requirements to design documents
 - Solve possible bugs. 
-- Analyse and design of P.O requirements
+
 - Tecnologies: Microservices, Clean code, Clean Architecture, Mongo, Postgres, Java 8, Java 11, Kotlin, NodeJS, Asynchronous communication between services using Spring Cloud Stream and RabbitMQ, Testing with JUnit and Spock, REST WebSerices, Spring Cloud Config, Github.
 
 - Skills: Troubleshooting · Software Maintenance · Computer Science · Specifications · Code Review · Spring Framework · Linux · Object-Oriented Programming (OOP) · Spring Boot · PostgreSQL · Kotlin · Node.js · Microservices · clean code · Java
@@ -55,6 +66,12 @@ github.com/caiquecsx
 
 - Mobile developer, using Ionic to create hybrid applications.
 - Back-end developer, using NodeJS and Express to create APIs for applications.
+
+## Education
+
+### Faculdade Lourenço Filho - FLF | <location> Fortaleza, CE - Brazil </location> <time> 2015 – 2020 </time>
+
+- Information systems (Bachelor´s degree) 
 
 ## Qualifications
 
