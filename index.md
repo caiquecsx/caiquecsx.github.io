@@ -1,3 +1,4 @@
+<!-- 
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Caique Santos</span>
@@ -7,7 +8,9 @@
 [![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:caique.c.s@icloud.com)
 [![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/caiquecsx)
 
-</span>
+</span> -->
+
+
 
 ## Education
 
