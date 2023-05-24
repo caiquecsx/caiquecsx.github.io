@@ -1,6 +1,7 @@
-<!-- 
+
 <link rel="stylesheet" type="text/css" href="resume.css">
 
+<!-- 
 <span class="name">Caique Santos</span>
 
 <span class="info">
@@ -14,12 +15,9 @@
 
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### Faculdade Lourenço Filho | <location> Fortaleza, CE - Brazil </location> <time> Sep 2019 – Jun 2021 </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+- Information systems (Bachelor´s degree) 
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
 
