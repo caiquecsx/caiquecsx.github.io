@@ -42,7 +42,7 @@ MongoDB
         <td><b>Frameworks</b></td>
      </tr>
      <tr>
-       <td>Java, Kotlin, NodeJS, MongoDB, PostgresSQL, RabbitMQ, Redis, Docker, JUnit, Spock, Spring Framework, Spring Cloud Stream</td>
+       <td>Java, Kotlin, NodeJS, MongoDB, PostgresSQL, RabbitMQ, Redis, GraphQL, Docker, JUnit, Spock, Spring Framework, Spring Cloud Stream</td>
         <td>Clean Architecture, Clean Code, Scrum, Agile, GTD</td>
      </tr>
     </table>
@@ -50,21 +50,30 @@ MongoDB
 
 ## Relevant Experience
 
-### Mid-level Java Software Developer <time> Dec 2020 – Present </time>
+### Mid-level Java Software Developer <time> Jun 2021 – Present </time>
 
 <location> Zup Innovation, São Paulo, Brazil </location>
 
-- Develop and implement new software
-- Test, maintain and recommend software improvements to ensure strong functionality and optimization
-- Work with experienced team members to conduct root cause analysis of issues, review new and existing code and/or perform unit testing
-- Write documentation
-- Development of technical specifications and plans
-- Analyze user requirements and convert requirements to design documents
-- Solve possible bugs. 
+- Develop and implement features in microservices for a mobile store, including handling a large volume of client requests and data.
+- Refactored a microservice that serves as the backend for the catalog, utilizing GraphQL, REST, RabbitMQ, and implementing clean architecture principles.
+- Test, maintain, and recommend software improvements to ensure robust functionality and optimization.
+- Collaborate with experienced team members to conduct root cause analysis of issues, review new and existing code, and/or perform unit testing.
+- Write documentation.
+- Create technical specifications and plans.
+- Analyze user requirements and convert them into design documents.
+- Resolve any potential bugs.
+- Implemented Node.js job automations to streamline repetitive tasks.
 
-- Tecnologies: Microservices, Clean code, Clean Architecture, Mongo, Postgres, Java 8, Java 11, Kotlin, NodeJS, Asynchronous communication between services using Spring Cloud Stream and RabbitMQ, Testing with JUnit and Spock, REST WebSerices, Spring Cloud Config, Github.
 
-- Skills: Troubleshooting · Software Maintenance · Computer Science · Specifications · Code Review · Spring Framework · Linux · Object-Oriented Programming (OOP) · Spring Boot · PostgreSQL · Kotlin · Node.js · Microservices · clean code · Java
+### Entry-level Java Software Developer <time> Dec 2020 – Jun 2021 </time>
+
+<location> Zup Innovation, São Paulo, Brazil </location>
+
+- Collaborate on a critical service that enables users to upgrade their products after a specified period of time, utilizing Spring Boot, Java 11, Spring Cloud Stream, RabbitMQ, and MongoDB.
+- Train new team members, teaching them the foundational code of the team.
+- Develop and implement features according to specifications.
+- Write tests and make improvements to the code.
+- Resolve bugs.
 
 ### Systems analyst <time> Jan 2020 - Dec 2020 </time>
 <location> Engesoftware Tecnologia S.A, Fortaleza, Brazil </location>
@@ -77,12 +86,6 @@ MongoDB
 
 - Attending inciddents and finding solutions for bugs in production.
 - Tecnologies: IBM RTC, Java 6, Java 8, JEE, JSF, Primefaces
-
-### Entry Level Developer <time> Nov 2018 - Jan 2020 </time>
-<location> FabricaInfo, Fortaleza, Brazil  </location>
-
-- Mobile developer, using Ionic to create hybrid applications.
-- Back-end developer, using NodeJS and Express to create APIs for applications.
 
 ## Education
 
