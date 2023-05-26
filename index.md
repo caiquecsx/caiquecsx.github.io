@@ -23,6 +23,17 @@ github.com/caiquecsx
 </p>
 
 ## Developer Stack
+<!-- ```text
+it is here for future uses, because is cool :)
+Java        
+█████████████████████░░░░   92.62 % 
+Kotlin        
+███████████████░░░░░░░░░░   73.45 % 
+Spring Framework       
+███████████████████░░░░░░   80.83 % 
+MongoDB          
+██████████████░░░░░░░░░░░   62.10 % 
+``` -->
 
 <div align="center">
     <table >
@@ -31,28 +42,8 @@ github.com/caiquecsx
         <td><b>Frameworks</b></td>
      </tr>
      <tr>
-       <td>Java</td>
-        <td>Spring Framework</td>
-     </tr>
-     <tr>
-       <td>Kotlin</td>
-        <td>Spring Cloud Stream</td>
-     </tr>
-     <tr>
-       <td>MongoDB</td>
-        <td>JUnit</td>
-     </tr>
-     <tr>
-       <td>PostgreSQL</td>
-        <td>Spock</td>
-     </tr>
-     <tr>
-       <td>RabbitMQ</td>
-        <td>Github</td>
-     </tr>
-     <tr>
-       <td>NodeJS</td>
-        <td>Clean Code & Architecture</td>
+       <td>Java, Kotlin, NodeJS, MongoDB, PostgresSQL, RabbitMQ, Redis, Docker, JUnit, Spock, Spring Framework, Spring Cloud Stream</td>
+        <td>Clean Architecture, Clean Code, Scrum, Agile, GTD</td>
      </tr>
     </table>
     </div>
